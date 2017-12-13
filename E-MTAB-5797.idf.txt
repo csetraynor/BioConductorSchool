@@ -1,0 +1,73 @@
+MAGE-TAB Version	1.1
+Investigation Title	Methylome profiling of human glioblastoma using Illumina 450K microarrays for the GlioTeX panel
+
+Experimental Design
+Experimental Design Term Source REF
+Experimental Design Term Accession Number
+
+Experimental Factor Name	individual
+Experimental Factor Type	individual
+Experimental Factor Term Source REF	EFO
+Experimental Factor Term Accession Number	EFO_0000246
+
+Person Last Name	Euskirchen
+Person First Name	Philipp
+Person Mid Initials	
+Person Email	philipp.euskirchen@icm-institute.org
+Person Phone	
+Person Fax	
+Person Affiliation	
+Person Address	
+Person Roles	submitter
+Person Roles Term Source REF	
+Person Roles Term Accession Number	
+
+Quality Control Type
+Quality Control Term Source REF
+Quality Control Term Accession Number
+
+Replicate Type
+Replicate Term Source REF
+Replicate Term Accession Number
+
+Normalization Type
+Normalization Term Source REF
+Normalization Term Accession Number
+
+Date of Experiment	2013-07-13
+Public Release Date	2017-06-24
+
+PubMed ID	28638988
+Publication DOI	10.1007/s00401-017-1743-5
+Publication Author List	Euskirchen P, Bielle F, Labreche K, Kloosterman WP, Rosenberg S, Daniau M, Schmitt C, Masliah-Planchon J, Bourdeaut F, Dehais C, Marie Y, Delattre JY, Idbaih A.
+Publication Title	Same-day genomic and epigenomic diagnosis of brain tumors using real-time nanopore sequencing.
+Publication Status	
+Publication Status Term Source REF	
+Publication Status Term Accession Number	
+
+Experiment Description	Genome-wide methylation profiles were generated as part of a multi-omics characterization (SNP array, WES, RNA-seq, cDNA microarray) of a panel of gliomasphere cell lines and matched parental tumors.  See https://www.ncbi.nlm.nih.gov/pubmed/27571888 about the GlioTeX panel.   Methylation profiling data in this record come from tumour samples.  SNP array (ArrayExpress E-MTAB-4804), cDNA microarray (ArrayExpress E-MTAB-4803), WES and RNAseq (European Genome-Phenome Archive EGAS00001001871) have been published before. In addition, for the current project we compare 450K methylation data to nanopore sequencing based methylation profiles. These sequencing data will be accessible via European Genome-Phenome Archive (EGAS00001002213).  Please also refer to https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5795/files/E-MTAB05795.additional.1.zip for further information on the background of this multi-omics study.
+
+Protocol Name	P-MTAB-65161	P-MTAB-65160	P-MTAB-65158	P-MTAB-65159
+Protocol Type	nucleic acid hybridization to array protocol	nucleic acid labeling protocol	sample collection protocol	nucleic acid extraction protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0003815	EFO_0003813	EFO_0005518	EFO_0002944
+Protocol Description	According to the manufacturer’s instructions.	500ng tumor DNA were subjected to bisulfite conversion and processed according to the manufacturer’s instructions.	Glioblastoma tumor samples were collected during surgical resection. Informed consent has been obtained for all patients.	DNA was extracted from fresh tumor tissue that was snap-frozen immediately after surgery using QIAamp DNA Mini spin columns.
+Protocol Parameters				
+Protocol Hardware				
+Protocol Software				
+Protocol Contact				
+
+Term Source Name	EFO	ArrayExpress
+Term Source File	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/arrayexpress/
+Term Source Version	2.38
+
+SDRF File	E-MTAB-5797.sdrf.txt
+Comment [Submitted Name]	Methylome profiling of human glioblastoma using Illumina 450K microarrays for the GlioTeX panel
+Comment [AEMIAMEScore]	3
+Comment [AEExperimentType]	methylation profiling by array
+Comment[ArrayExpressAccession]	E-MTAB-5797
+Comment [RelatedExperiment]	EGAS00001001871
+Comment [RelatedExperiment]	EGAS00001002213
+Comment [RelatedExperiment]	E-MTAB-4803
+Comment [RelatedExperiment]	E-MTAB-4804
+Comment [AdditionalFile.txt]	E-MTAB-5797_study_background.txt
